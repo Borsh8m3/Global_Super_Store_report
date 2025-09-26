@@ -1,4 +1,4 @@
-# Global\_Super\_Store\_report
+# 📊Global\_Super\_Store\_report
 
 
 
@@ -24,7 +24,7 @@ The report is intended solely as part of a recruitment portfolio, to demonstrate
 
 Clone the repository
 
-git clone https://github.com/USERNAME/Global_Super_Store_report.git
+git clone https://github.com/Borsh8m3/Global_Super_Store_report.git
 cd Global_Super_Store_report
 
 
@@ -34,8 +34,7 @@ Python 3.9+ recommended
 
 Install required packages:
 
-pip install -r requirements.txt
-
+pip install pandas numpy matplotlib ydata-profiling
 
 
 Open the Jupyter Notebook
