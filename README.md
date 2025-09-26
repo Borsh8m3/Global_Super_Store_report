@@ -19,3 +19,40 @@ The report is intended solely as part of a recruitment portfolio, to demonstrate
 ├── Report.pbix                       # Final Power BI report with interactive dashboards  
 ├── README.md                         # Project description, instructions, insights  
 └── screenshots/                      # (optional) Folder with screenshots of Power BI dashboards
+
+## ▶️ How to Run
+
+Clone the repository
+
+git clone https://github.com/USERNAME/Global_Super_Store_report.git
+cd Global_Super_Store_report
+
+
+Set up Python environment
+
+Python 3.9+ recommended
+
+Install required packages:
+
+pip install -r requirements.txt
+
+
+
+Open the Jupyter Notebook
+
+jupyter notebook Global_Super_Store_report.ipynb
+
+
+The notebook contains the initial exploratory data analysis (EDA) and dataset verification.
+
+Open the Power BI report
+
+Locate the file: Report.pbix
+
+Open it with Power BI Desktop (free to download from Microsoft).
+
+
+
+## 🔗 Useful Links
+
+Dataset (Kaggle): https://www.kaggle.com/datasets/apoorvaappz/global-super-store-dataset/data
