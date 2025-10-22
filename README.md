@@ -11,19 +11,12 @@ The report is intended solely as part of a recruitment portfolio, to demonstrate
 
 ## 📂 Project Structure
 ├── Global_Super_Store_report.ipynb   # Jupyter Notebook – exploratory data analysis (EDA) and dataset verification
-
 ├── ydata-profiling_report.html       # Automated profiling report (data quality, distributions, correlations)
-
 ├── Global_Superstore2.csv            # Main dataset (raw data, CSV format)
-
 ├── Global_Superstore2.xlsx           # Main dataset (Excel format) – alternative version
-
 ├── Global_Superstore1.xlsx           # Early dataset version (backup/test file)
-
 ├── Report.pbix                       # Final Power BI report with interactive dashboards
-
 ├── README.md                         # Project description, instructions, insights
-
 └── Screenshots/                      # Folder with screenshots of Power BI dashboards used in the README
 
 
